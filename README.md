@@ -1,3 +1,2 @@
-# CS288
-Intensive Programming in Linux
+# CS288 - Intensive Programming in Linux
 The course covers programming topics in Linux OS using C, Python, and PHP as primary languages. The course consists of the following modules: basic tools and utilities for systemlevel software development, such as Bash, C programming, and Unix/Linux system API; methods and algorithms for processing web data, such as searching trees and matrix computing; end-to-end applications such as one that constantly presents top 100 stocks; and extending the applications to run on multiple machines. The course provides students with utilities and handson experience for programming relatively large applications.
